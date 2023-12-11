@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/pessoas/"
+const URL = "https://bancoyasmim.onrender.com/pessoas"
 var listaPessoas = []
 
 function iniciarTabela(){
